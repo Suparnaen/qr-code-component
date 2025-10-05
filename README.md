@@ -1,9 +1,3 @@
-### Here I have imported the project assets
-
-Then there are two version of this application:
-Version-1: Using only HTML and CSS (index.html and style.css)
-Version-2: Using HTML, and tailwindcss (mobilefirstStyle.css)
-
 # Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./preview.jpg)
